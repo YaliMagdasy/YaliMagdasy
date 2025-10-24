@@ -1,10 +1,10 @@
 ## 👋 About Me 👋
 
-My name is Yali Magdasy — I’m a young developer from Israel 🇮🇱.  
+My name is Yali Magdasy - I’m a young developer from Israel 🇮🇱.  
 🎓 I'm currently studying in high school, majoring in Computer Science.  
 💡 I study in a designated program for advanced students in computer science and technology.  
 🛠️ I enjoy building practical, creative projects using various programming languages.  
-⚽ In my free time, I love playing sports, volunteering, having fun — and of course, coding! 💻
+⚽ In my free time, I love playing sports, volunteering, having fun - and of course, coding! 💻
 
 🔭 Currently exploring:
 - 🤖 Machine Learning and AI
